@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>login.qml</file>
+        <file>bkg.png</file>
+        <file>MNode.qml</file>
+        <file>map.qml</file>
+        <file>ditu.html</file>
+    </qresource>
+</RCC>
